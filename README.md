@@ -1,8 +1,10 @@
 
 [![Solved.acProfile](http://mazassumnida.wtf/api/v2/generate_badge?boj=durumi99)](https://solved.ac/durumi99)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durumi99&layout=compact)](https://github.com/durumi99/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durumi99&layout=compact)](https://github.com/durumi99/github-readme-stats) 
+-->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsukim-29cm&layout=compact)](https://github.com/minsukim-29cm)
+-->
 <!-- ![Duurmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=durumi99&show_icons=true&theme=radical)
 -->
 <!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=durumi99)](https://velog.io/@durumi99) 
