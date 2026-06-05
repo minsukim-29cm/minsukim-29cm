@@ -20,15 +20,7 @@
 
 > 도구는 갈아끼우는 거라 생각해서, **깊게 쓰는 것만** 적어요.
 
-`React` · `TypeScript` · `TanStack Query` · `React Native`
-
-### 🚀 Projects
-
-| 프로젝트 | 한 줄 소개 | |
-| :-- | :-- | :--: |
-| **인간지표** | 커뮤니티 감정 데이터를 주식 종목별 지표로 — *팀장 · FE* | [link](https://humanzipyo.com) |
-| **StackPot** | 지원자와 팀장을 잇는 팀 매칭 플랫폼 v2 — *FE* | [link](https://www.stackpot.co.kr) |
-| **상태창** | 루틴 기반으로 능력치를 키우는 자기관리 RPG — *FE* | — |
+`React` · `Next.js` · `TypeScript` · `TanStack Query` · `React Native`
 
 ### 🔗 Links
 
@@ -38,10 +30,6 @@
 
 <br/>
 
-<div align="center">
-
 [![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=durumi99)](https://solved.ac/durumi99)
 
 <img src="https://komarev.com/ghpvc/?username=minsukim-29cm&color=3178C6&style=flat&label=Profile+views" />
-
-</div>
