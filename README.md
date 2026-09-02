@@ -21,7 +21,6 @@
 
 <a href="https://fair-pump-4bf.notion.site/Kim-Minsu-10c6b7552644803f8a1cdf78c011fa08"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/minsu-kim-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://velog.io/@durumi99"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" /></a>
 
 <br/>
 
