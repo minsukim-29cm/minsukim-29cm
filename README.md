@@ -16,14 +16,6 @@
 - 🤖 요즘은 **AI 페어코딩 환경(하네스)** 을 직접 세워, AI가 일관된 기준으로 협업하게 만드는 데 관심이 많아요
 - 🌱 *꾸준히 성장하는 개발자, 더 나아가 함께 성장하는 개발자*
 
-
-### 🔗 Links
-
-<a href="https://fair-pump-4bf.notion.site/Kim-Minsu-10c6b7552644803f8a1cdf78c011fa08"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/minsu-kim-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<br/>
-
 [![solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=durumi99)](https://solved.ac/durumi99)
 
 <img src="https://komarev.com/ghpvc/?username=minsukim-29cm&color=3178C6&style=flat&label=Profile+views" />
